@@ -324,7 +324,7 @@ axes.spines.right  : False
                                ## rather than hyphen.  See
                                ## http://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
 
-axes.prop_cycle         : cycler('color', ['92C6FF', '97F0AA', 'FF9F9A', 'D0BBFF', 'FFFEA3', 'B0E0E6'])
+axes.prop_cycle         : cycler('color', ['92C6FF', 'FF9F9A', '97F0AA', 'D0BBFF', 'FFFEA3', 'B0E0E6'])
 
 #axes.autolimit_mode : data ## How to scale axes limits to the data.
                             ## Use "data" to use data limits, plus some margin
