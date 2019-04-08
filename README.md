@@ -1,2 +1,3 @@
-# matplotlibStyles
-Style files for matplotlib
+# Configs
+
+Collection of config files
