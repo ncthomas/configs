@@ -1,3 +1,6 @@
 # Configs
 
-Collection of config files
+Config files for
+
+* matplotlibrc
+* bashrc
