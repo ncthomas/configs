@@ -1,0 +1,28 @@
+# BACKEND
+backend      : Ps
+
+# FONTS
+font.family         : sans-serif
+font.size           : 10.0
+font.serif          : DejaVu Serif,  Computer Modern Roman, , Utopia, ITC Bookman, Bookman, Times New Roman, Times, Palatino, Charter, serif
+font.sans-serif     : Arial, DejaVu Sans, Bitstream Vera Sans, Computer Modern Sans Serif, Lucida Grande, Verdana, Geneva, Lucid, Helvetica, Avant Garde, sans-serif
+font.cursive        : Apple Chancery, Textile, Zapf Chancery, Sand, Script MT, Felipa, cursive
+font.fantasy        : Chicago, Charcoal, ImpactWestern, Humor Sans, xkcd, fantasy, Comic Sans MS
+font.monospace      : DejaVu Sans Mono, Bitstream Vera Sans Mono, Computer Modern Typewriter, Andale Mono, Nimbus Mono L, Courier New, Courier, Fixed, Terminal, monospace
+
+# COLOURS
+axes.prop_cycle         : cycler('color', ['B1D182','688F4E','2B463C'])
+
+# AXES
+axes.spines.top    : False
+axes.spines.right  : False
+axes.facecolor      : white
+axes.edgecolor      : grey
+
+# TICKS
+xtick.color          : grey
+ytick.color          : grey
+
+# EPS EXPORT
+ps.useafm         : True
+ps.fonttype       : 42
