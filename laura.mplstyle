@@ -17,11 +17,11 @@ axes.prop_cycle         : cycler('color', ['B1D182','688F4E','2B463C'])
 axes.spines.top    : False
 axes.spines.right  : False
 axes.facecolor      : white
-axes.edgecolor      : grey
+axes.edgecolor      : black
 
 # TICKS
-xtick.color          : grey
-ytick.color          : grey
+xtick.color          : black
+ytick.color          : black
 
 # EPS EXPORT
 ps.useafm         : True
