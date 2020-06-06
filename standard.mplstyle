@@ -1,5 +1,5 @@
 # BACKEND
-backend      : Ps
+
 
 # FONTS
 font.family         : sans-serif
@@ -17,11 +17,11 @@ axes.prop_cycle         : cycler('color', ['92C6FF', 'FF9F9A', '97F0AA', 'D0BBFF
 axes.spines.top    : False
 axes.spines.right  : False
 axes.facecolor      : white
-axes.edgecolor      : grey
+axes.edgecolor      : black
 
 # TICKS
-xtick.color          : grey
-ytick.color          : grey
+xtick.color          : black
+ytick.color          : black
 
 # EPS EXPORT
 ps.useafm         : True
